@@ -1,0 +1,19 @@
+# Alle Dateien und Ordner ignorieren
+*
+
+# Ausnahmen (Diese Dateien NICHT ignorieren)
+!pipeline.ipynb
+!requirements.txt
+!.gitignore
+!5_pipeline_10FoldsAgain.ipynb
+
+# 0_pipeline_Start.ipynb
+# 1_exploring_suite.ipynb
+# 2_fetching_datasets.ipynb
+# 3_hyperparameter_optimization.ipynb
+# 4_calculate_10FoldsAVG.ipynb
+# exploring_suite.ipynb
+# test_joblib.py
+# testing1.ipynb
+# testing2.ipynb
+# testing3.ipynb
