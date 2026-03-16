@@ -5,7 +5,10 @@
 !pipeline.ipynb
 !requirements.txt
 !.gitignore
-!5_pipeline_10FoldsAgain.ipynb
+!pipeline_refactored.ipynb
+!zevaluation.ipynb
+!requirements.txt
+result_final
 
 # 0_pipeline_Start.ipynb
 # 1_exploring_suite.ipynb
